@@ -1,0 +1,7 @@
+Explicaciones 
+
+1 Variables : las variables son una especie de caja que guarda informacion para poder ser utilizada en cualquer momento.
+2 Strings : Los strings son cadenas de texto usualmente se reconocen por que estan entre comillas "" o comillas ''.
+3 funciones : Las funciones guardan procedimientos que se pueden llaamr en un momento deseado , estas pueden tener o no argumentos , los argumentos son conidiones que se le dan al afuncion parza ejecutar una terea respeciva.
+4 Declaraciones if: las declaraciones If son procesos que realizan una tarea determinada si una condicion dada se cumple y realizan otra tarea si esa condicion no se cumple , estas declaraciones tambien se pueden anidar dando la posibilidad de tener mas de una condicion para hacer una tarea especifica.
+5 Valores booleanos: Los valores booleanos son un tipo de dato para marcar si algo es verdadero o falso o si es 1 o 0 .
